@@ -1,0 +1,23 @@
+img{
+    border: 2px black solid;
+    padding: 10px;
+    margin-left: 150px;
+    border-radius: 50%;
+}
+html {
+    background-color: bisque;
+    padding: 50px;
+
+}
+body {
+    border: solid;
+    border-right: 400px;
+    border-color: blueviolet;background-color: grey;
+    padding-left: 50px;
+    border-radius: 20px;
+
+}
+.style {
+    color: burlywood;
+    
+}
