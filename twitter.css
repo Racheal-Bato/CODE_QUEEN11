@@ -75,8 +75,8 @@ h1 {
 }
 #but {
     width: 100px;
-    height: 20px;
-    background-color: black;
+    height: 30px;
+    background-color: blue;
     color: white;
     border-radius: 15px;
     margin-bottom: 5px;
@@ -89,4 +89,16 @@ span {
 .icon img {
     object-position: right;
     
+}
+.link {
+    background-color: white;
+    text-decoration: none;
+    font-size: 15px;
+    width: max-content;
+    border: solid white;
+    border-radius: 10px;
+}
+#my-link {
+    margin-right: 5px;
+    text-decoration: none;
 }
