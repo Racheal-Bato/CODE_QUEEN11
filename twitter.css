@@ -1,0 +1,90 @@
+body {
+    background-color: white;
+}
+.container {
+    display: inline-flex;
+    padding: 20px;
+    border: solid rgba(75, 75, 75, 0.495);
+    border-width: 5px;
+    border-radius: 15px;
+
+
+}
+.icon {
+    background-color: white;
+    width: 200px;
+    height: 300px;
+
+    
+}
+.form {
+    background-color: #fff;
+    width: 400px;
+    height: 300px;
+    border: solid white;
+    text-align: center;
+    display: grid;
+    padding-left: 40px;
+    font-size: 10px;
+    
+}
+
+.logo {
+    width: 150px;
+    height: 100px;
+    padding: 50px
+    
+}
+.sign img{
+    width: 25px;
+    margin-right: 10px;
+    
+}
+.sign{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    
+}
+hr {
+    border: solid;
+    height: 0;
+    width: 300px;
+
+}
+#ndish {
+    width: 250px;
+    height: 20px;
+    padding: 2px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+h1 {
+    padding-left: 30px;
+    font-size: 30px;
+}
+.change {
+    width: 250px;
+    height: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+#but {
+    width: 100px;
+    height: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+span {
+    font-size: 30px;
+    font-weight: bold;
+}
+.icon img {
+    object-position: right;
+    
+}
